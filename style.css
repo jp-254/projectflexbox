@@ -53,4 +53,15 @@ input::placeholder{
     color: #917457;
 }
 
+.input-container{
+    position: relative;
+}
+i{
+    position: absolute;
+    top: 15px;
+    left: 10px;
+    color: black;
+}
+
+
 
